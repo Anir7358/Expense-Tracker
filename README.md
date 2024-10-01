@@ -34,10 +34,6 @@ Keep track of your income and expenses with the Expense Tracker app. This React 
 
 Clone this repository:
 
-```bash
-git clone  https://github.com/MehraDevesh2022/expense-tracker.git
-```
-
 Install dependencies:
 
 ```bash
